@@ -7,3 +7,4 @@ On teste un titre
 ===
 
 Et maintenant on modifie depuis Github
+Ou depuis la machine locale
